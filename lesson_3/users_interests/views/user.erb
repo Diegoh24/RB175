@@ -1,0 +1,12 @@
+<h1><%= @name.capitalize %></h1>
+
+<h3>Email Adrress: <%= @email %></h3>
+<h3>Interests: <%= @interests.join(', ') %></h3>
+
+<h3>Other Users:</h3>
+
+<ul>
+  <% other_users.each do |user| %>
+    <li><a href="/<%= user %>"><%= user %></a></li>
+  <% end %>
+</ul>
