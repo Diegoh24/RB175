@@ -1,0 +1,7 @@
+---
+player:
+  :password: "$2a$12$dxME38kCAsEyE/eghND9cuC69iIoAa.ydmvK./LLCv9.R7EF7oN.."
+  :games: []
+testing1:
+  :password: "$2a$12$9Nw/FLUgpY1S5oa9XefwVeyisbACkW2k29EN1MrStNEgoV.D2szzS"
+  :games: []
